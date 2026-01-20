@@ -1,0 +1,7 @@
+{
+  "name": "Free Fire BD Tournament",
+  "description": "The ultimate platform for Bangladesh's Free Fire gaming community. Join daily Battle Royale and Clash Squad matches to win cash and diamonds via bKash and Nagad.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
